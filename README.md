@@ -6,7 +6,7 @@ Here is a list of all repos containing code related to the NITELite system:
 - [NITELite_Pi](https://github.com/AdlerFarHorizons/NITELite_Pi)
 - ...
 
-Check out this wiki to learn more! Or read up on our mission success: 
+Check out [this wiki](https://github.com/AdlerFarHorizons/NITELite_Info/wiki) to learn more! Or read up on our mission success: 
 - [NITELite: A High-Altitude Balloon Light Pollution Research Mission](https://www.researchgate.net/publication/346066306_NITELite_A_High-Altitude_Balloon_Light_Pollution_Research_Mission)
 - [Light Pollution Mapping from a Stratospheric High-Altitude Balloon Platform](https://www.researchgate.net/publication/351459098_Light_Pollution_Mapping_from_a_Stratospheric_High-Altitude_Balloon_Platform)
 - [What Goes Up…](https://www.adlerplanetarium.org/blog/far-horizons-mission-nitelite-update/)
