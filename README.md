@@ -3,7 +3,7 @@
 TLDR; NITELite is a system we've designed for collecting light emissions data from a high-altitude balloon platform. 
 
 Here is a list of all repos containing code related to the NITELite system:
-- [NITELite_Pi] (https://github.com/AdlerFarHorizons/NITELite_Pi)
+- [NITELite_Pi](https://github.com/AdlerFarHorizons/NITELite_Pi)
 - ...
 
 Check out this wiki to learn more! Or read up on our mission success: 
